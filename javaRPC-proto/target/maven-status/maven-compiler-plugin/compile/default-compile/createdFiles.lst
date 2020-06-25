@@ -1,0 +1,4 @@
+com\jiedong\rpc\Response.class
+com\jiedong\rpc\ServiceDescriptor.class
+com\jiedong\rpc\Peer.class
+com\jiedong\rpc\Request.class
